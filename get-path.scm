@@ -47,8 +47,8 @@
   (define pa1-contents (with-input-from-file "node-input.in" read-file))
 
   ;;--------------------------------------------------------
-  ;;The supporting procedures above are from CS450 lectures,
-  ;;credited to Carl Offner and Bill Campbell               
+  ;;The supporting procedures above are credited to
+  ;;Carl Offner and Bill Campbell               
   ;;--------------------------------------------------------
   
   (define pa1-end-node (- (car pa1-contents) 1))
