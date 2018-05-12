@@ -1,1 +1,1 @@
-This is an implementation of the A* algorithm for finding the shortest path from node 0 to the highest-value node (5, in the given input file).
+This is a UMB Scheme implementation of the A* algorithm for finding the shortest path from node 0 to the highest-value node (5, in the given input file).
